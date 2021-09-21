@@ -1,2 +1,2 @@
 # slotsMachine
-Console based slots machine
+Console based slots machine, thats it.
